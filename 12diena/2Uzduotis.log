@@ -1,0 +1,75 @@
+ERROR:root:ivesta netinkama reiksme: tyuhf
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 20, in kvadr_saknis
+    saknis = math.sqrt(x)
+TypeError: must be real number, not str
+ERROR:root:ivesta netinkama reiksme: tyuhf
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 20, in kvadr_saknis
+    saknis = math.sqrt(x)
+TypeError: must be real number, not str
+ERROR:root:ivesta netinkama reiksme: asedfsda
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 20, in kvadr_saknis
+    saknis = math.sqrt(x)
+TypeError: must be real number, not str
+ERROR:root:ivesta netinkama reiksme: asedfsda
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 20, in kvadr_saknis
+    saknis = math.sqrt(x)
+TypeError: must be real number, not str
+ERROR:root:ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 31, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+ERROR:root:ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 31, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+ERROR:root:ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 31, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+INFO:root:Skai\u010di\u0173 suma (4, 5, 6, 8) yra lygi 23
+ERROR:root:ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 29, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+INFO:root:sakinio simboliu skaicius: 19
+INFO:root:Padalinam: 6/2 = 3.0
+2023-05-23 14:33:09,702-INFO-Skai\u010di\u0173 suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 14:33:09,703-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 29, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 14:33:09,703-INFO-sakinio simboliu skaicius: 19
+2023-05-23 14:33:09,703-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:19:40,339-INFO-Skai\u010di\u0173 suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 15:19:40,339-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 29, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:19:40,340-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:19:40,340-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:52:30,835-INFO-Skai\u010di\u0173 suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 15:52:30,836-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 29, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:52:30,836-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:52:30,836-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:38:12,341-INFO-Skai\u010di\u0173 suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:38:12,343-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\2Uzduotis.py", line 29, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:38:12,343-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:38:12,343-INFO-Padalinam: 6/2 = 3.0

@@ -1,0 +1,155 @@
+2023-05-23 15:38:26,187-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 42, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:38:26,187-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:38:26,187-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:39:46,128-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:39:46,129-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:39:46,129-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:40:00,641-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:40:00,642-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:40:00,642-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:48:18,991-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:48:18,991-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:48:18,991-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:50:30,012-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:50:30,012-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:50:30,012-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:53:26,101-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:53:26,101-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:53:26,101-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:55:14,828-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:55:14,828-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:55:14,828-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:55:31,443-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:55:31,443-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:55:31,444-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:55:47,606-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:55:47,606-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:55:47,606-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:58:54,573-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 15:58:54,574-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:58:54,574-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:58:54,574-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 15:59:22,940-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 15:59:22,941-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 15:59:22,941-INFO-sakinio simboliu skaicius: 19
+2023-05-23 15:59:22,941-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:38:42,364-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:38:42,365-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:38:42,365-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:38:42,365-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:40:05,706-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:40:05,706-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:40:05,707-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:40:05,707-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:40:25,862-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:40:25,862-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:40:25,863-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:40:25,863-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:40:35,927-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:40:35,927-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:40:35,927-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:40:35,928-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:49:56,745-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:49:56,746-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:49:56,746-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:49:56,746-INFO-Padalinam: 6/2 = 3.0
+2023-05-23 16:50:10,139-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:50:10,139-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:50:10,140-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:53:06,868-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:53:06,868-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:53:06,868-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:54:23,549-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:54:23,549-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:54:23,549-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:54:23,549-INFO-Dalyba is nulio negalima:
+2023-05-23 16:56:14,673-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:56:14,674-ERROR-ivesta netinkama reiksme: 
+Traceback (most recent call last):
+  File "C:\Users\tomas\PycharmProjects\pythonProject\12diena\3Uzduotis.py", line 41, in <module>
+    kvadr_saknis(asedfsda)
+NameError: name 'asedfsda' is not defined
+2023-05-23 16:56:14,674-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:56:14,674-INFO-Dalyba is nulio negalima:
+2023-05-23 16:56:47,184-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:56:47,185-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:56:47,185-INFO-Dalyba is nulio negalima:
+2023-05-23 16:58:27,972-INFO-Skaiciu suma (4, 5, 6, 8) yra lygi 23
+2023-05-23 16:58:27,972-INFO-sakinio simboliu skaicius: 19
+2023-05-23 16:58:27,972-INFO-Dalyba is nulio negalima:
