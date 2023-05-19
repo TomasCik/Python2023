@@ -20,7 +20,6 @@ namas1 = Namas(150, 20000)
 namas2 = Namas(200, 330000)
 
 namas1.verte = 220000
-namas2.verte = -331000
-
+namas2.verte = 500000
 print(namas1.plotas, namas1.verte)
 print(namas2.plotas, namas2.verte)
